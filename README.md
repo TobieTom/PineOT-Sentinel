@@ -57,17 +57,3 @@ Built by [TobieTom] for PineOT Intelligence.
 
 ---
 
-### **3. The Updated Push Commands**
-Since you added the `README.md`, you need to include it in your upload.
-
-**Run these commands in your Windsurf terminal to push EVERYTHING:**
-
-```powershell
-# 1. Add both files
-git add sentinel.py README.md
-
-# 2. Save them
-git commit -m "Added Sentinel Logic and Documentation"
-
-# 3. Push to GitHub (If you already ran the 'remote add' command)
-git push -u origin main
